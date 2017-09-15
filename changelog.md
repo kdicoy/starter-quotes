@@ -38,3 +38,13 @@ Versions will be added from oldest to newest.
 
 #Changed
 - Changed some wording on the tooltip template.
+
+## Version 1.04 - 09/15/2017
+
+#Added
+- New show method in Welcome.php; can pass actor's record
+		fields as view parameters
+
+#Changed
+- Put image element inside anchor element in homepage.php
+- View file in Welcome.php is now actor instead of homepage
