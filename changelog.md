@@ -16,7 +16,7 @@ Format:
 
 #Removed
 
-Versions will be added from oldest to newest(newest version will always be on top).
+Versions will be added from oldest to newest.
 
 -----------------------------------------------------------------------------------------
 
@@ -30,3 +30,11 @@ Versions will be added from oldest to newest(newest version will always be on to
 #Added
 - New entry for Madonna in Quote.php
 - New Madonna.jpg in pix
+
+## Version 1.03 - 09/15/2017
+
+#Added
+- Added tooltip for the images of the homepage.
+
+#Changed
+- Changed some wording on the tooltip template.
