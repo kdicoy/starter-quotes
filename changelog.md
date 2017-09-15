@@ -24,3 +24,9 @@ Versions will be added from oldest to newest(newest version will always be on to
 
 #Added
 - changelog.md Added to the root folder.
+
+## Version 1.02 - 09/15/2017
+
+#Added
+- New entry for Madonna in Quote.php
+- New Madonna.jpg in pix
