@@ -16,7 +16,7 @@ Format:
 
 #Removed
 
-Versions will be added from oldest to newest.
+Versions will be added from oldest to newest(oldest will be on top).
 
 -----------------------------------------------------------------------------------------
 
